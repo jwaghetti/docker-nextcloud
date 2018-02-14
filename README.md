@@ -1,8 +1,15 @@
+
+# docker-nextcloud
+
+docker-compose script for nextcloud.
+
 Official Public Repository: https://gitlab.com/jwaghetti/docker-nextcloud
 Forked from: https://github.com/indiehosters/nextcloud
 
 No more tracking from original Git repository.
 
+Copyright (C) 2017-2018 Jean Waghetti.
+Copyright for the respective owners from forked repository. 
 
 # Nextcloud
 
