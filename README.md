@@ -1,3 +1,9 @@
+Official Public Repository: https://gitlab.com/jwaghetti/docker-nextcloud
+Forked from: https://github.com/indiehosters/nextcloud
+
+No more tracking from original Git repository.
+
+
 # Nextcloud
 
 A safe home for all your data. Access & share your files, calendars, contacts, mail & more from any device, on your terms.
